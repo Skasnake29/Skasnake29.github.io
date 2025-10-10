@@ -2,12 +2,21 @@
 ## Les visages du Seigneur du Temps
 
 Au fil des années, plusieurs acteurs ont incarné le Docteur :
-- William Hartnell  
-- Tom Baker  
+- William Hartnell
+- Patrick Troughton
+- Jon Pertwee
+- Tom Baker
+- Peter Davison
+- Colin Baker
+- Sylvester MCcoy
+- Paul McGann
+- John Hurt
+- Christopher Eccleston
 - David Tennant  
 - Matt Smith  
 - Peter Capaldi  
-- Jodie Whittaker  
+- Jodie Whittaker
+- David Tennant (again)
 - Ncuti Gatwa  
 
 ---
