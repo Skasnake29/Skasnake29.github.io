@@ -3,6 +3,8 @@
 
 Bienvenue sur le site dédié à **Docteur Who**, la série culte de science-fiction britannique.
 
+![tardis](https://github.com/user-attachments/assets/eccda7d0-7416-4f68-8c46-80dbbb127570)
+
 ---
 
 ### Navigation
