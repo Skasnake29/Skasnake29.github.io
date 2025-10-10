@@ -1,5 +1,18 @@
-# Titre de fou
-## J'update le site de fou avec du contenu de fou
-![zizou](https://github.com/user-attachments/assets/8afebe02-525e-446a-9a27-efd336dcfacd)
-[Culture](https://www.quizypedia.fr/)
+# Docteur Who
+## La série de SF intemporelle
 
+Bienvenue sur le site dédié à **Docteur Who**, la série culte de science-fiction britannique.
+
+---
+
+### Navigation
+- [Accueil](index.md)
+- [Synopsis de Docteur Who](synopsis.md)
+- [Création de la série](creation.md)
+- [Interprètes du Docteur](interpretes.md)
+- [Actualités](actualites.md)
+
+---
+
+### Présentation
+Découvrez l’univers fascinant du Docteur, un Seigneur du Temps voyageant à travers l’espace et le temps à bord du TARDIS.
